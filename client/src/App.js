@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from 'react';
 import io from 'socket.io-client';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
